@@ -1,0 +1,8 @@
+roles:
+  roles/bigquery.admin:
+   - user:cristina.abrantes@gmail.com
+   - user:cristina.abrantes.tic@gmail.com
+  roles/viewer:
+    - user:oyara.thalita@gmail.com
+  roles/editor:
+    - user:tete.maninha@gmail.com  
